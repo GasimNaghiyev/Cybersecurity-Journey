@@ -1,6 +1,3 @@
-# Cybersecurity-Journey
-
-
 # Cybersecurity Learning Journey
 
 Hi! I'm Gasim, a Cyber Security student at Vilnius University.
