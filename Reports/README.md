@@ -2,5 +2,5 @@
 
 This directory contains my cybersecurity reports and study guides.
 
-# Avaible Reports
+# Available Reports
 - Linux Fundamentals Part 1
